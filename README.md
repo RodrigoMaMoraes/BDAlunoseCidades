@@ -51,4 +51,4 @@ SELECT * FROM Alunos A INNER JOIN Cidades C ON C.ID = A.CIDADE_ID: Realiza uma c
 SELECT * FROM Alunos A 
 INNER JOIN Cidades C ON C.ID = A.CIDADE_ID
 
-![BDCIDADESALUNOS](https://github.com/RodrigoMaMoraes/BDAlunoseCidades/blob/main/RelatorioBDcidadesAlunos.png)https://github.com/RodrigoMaMoraes/BDAlunoseCidades/blob/main/RelatorioBDcidadesAlunos.png)
+![BDCIDADESALUNOS](https://github.com/RodrigoMaMoraes/BDAlunoseCidades/blob/main/RelatorioBDcidadesAlunos.png).
