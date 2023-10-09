@@ -47,3 +47,5 @@ insert into Alunos values (12, 'Richard Feynman', date'1982-09-12', 1);
 
 SELECT * FROM Alunos A 
 INNER JOIN Cidades C ON C.ID = A.CIDADE_ID
+
+![BDCIDADESALUNOS](https://github.com/RodrigoMaMoraes/BDAlunoseCidades/blob/main/RelatorioBDcidadesAlunos.png)https://github.com/RodrigoMaMoraes/BDAlunoseCidades/blob/main/RelatorioBDcidadesAlunos.png)
